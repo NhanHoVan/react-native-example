@@ -21,7 +21,7 @@ A sample React Native project built using Expo, designed to demonstrate the impl
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/NhanHoVan/react-native-example.git
    cd react-native-example
    ```
 2. Install dependencies:
